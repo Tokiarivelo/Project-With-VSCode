@@ -1,0 +1,17 @@
+D:\Project With VSCode\TodoApi\TodoAPI\bin\Debug\netcoreapp2.2\TodoAPI.deps.json
+D:\Project With VSCode\TodoApi\TodoAPI\bin\Debug\netcoreapp2.2\TodoAPI.runtimeconfig.json
+D:\Project With VSCode\TodoApi\TodoAPI\bin\Debug\netcoreapp2.2\TodoAPI.runtimeconfig.dev.json
+D:\Project With VSCode\TodoApi\TodoAPI\bin\Debug\netcoreapp2.2\TodoAPI.dll
+D:\Project With VSCode\TodoApi\TodoAPI\bin\Debug\netcoreapp2.2\TodoAPI.pdb
+D:\Project With VSCode\TodoApi\TodoAPI\bin\Debug\netcoreapp2.2\TodoAPI.Data.dll
+D:\Project With VSCode\TodoApi\TodoAPI\bin\Debug\netcoreapp2.2\TodoAPI.Data.pdb
+D:\Project With VSCode\TodoApi\TodoAPI\obj\Debug\netcoreapp2.2\TodoAPI.csprojAssemblyReference.cache
+D:\Project With VSCode\TodoApi\TodoAPI\obj\Debug\netcoreapp2.2\TodoAPI.csproj.CoreCompileInputs.cache
+D:\Project With VSCode\TodoApi\TodoAPI\obj\Debug\netcoreapp2.2\TodoAPI.RazorAssemblyInfo.cache
+D:\Project With VSCode\TodoApi\TodoAPI\obj\Debug\netcoreapp2.2\TodoAPI.RazorAssemblyInfo.cs
+D:\Project With VSCode\TodoApi\TodoAPI\obj\Debug\netcoreapp2.2\TodoAPI.AssemblyInfoInputs.cache
+D:\Project With VSCode\TodoApi\TodoAPI\obj\Debug\netcoreapp2.2\TodoAPI.AssemblyInfo.cs
+D:\Project With VSCode\TodoApi\TodoAPI\obj\Debug\netcoreapp2.2\TodoAPI.RazorTargetAssemblyInfo.cache
+D:\Project With VSCode\TodoApi\TodoAPI\obj\Debug\netcoreapp2.2\TodoAPI.csproj.CopyComplete
+D:\Project With VSCode\TodoApi\TodoAPI\obj\Debug\netcoreapp2.2\TodoAPI.dll
+D:\Project With VSCode\TodoApi\TodoAPI\obj\Debug\netcoreapp2.2\TodoAPI.pdb

@@ -1,0 +1,87 @@
+*{
+    @include box-sizing(border-box);
+}
+@include selection(white, $base-color);
+body{
+    margin: 0;
+    padding: 0;
+    font-size: 16px; /*1em*/
+    line-height: 1.75;
+    font-family: "Open Sans", sans-serif;
+    color: #737373;
+}
+a{
+    color:inherit; //hérite du parent
+    text-decoration: none;
+}
+strong{
+    font-weight: 700;
+}
+h2{
+    margin: 0 0 10px 0;
+    text-transform: uppercase;
+    font-size: 20px;
+    line-height: 1.25em;
+    color: black;
+}
+p{
+    margin: 0 0 20px 0; //top right bottom left
+}
+hr{
+    margin: 115px 0;
+    padding: 0;
+
+    height: 2px;
+
+    background-color: #e6e6e6;
+    border: none;
+}
+input{
+    @include appearence(none);
+    outline: none;
+    border-radius: 0;
+}
+.quote-text{
+    margin: 0 0 40px 0;
+    display: block;
+    position: relative;
+    padding: 0 20px;
+    font-size: 45px;
+    font-weight: bold;
+    line-height: 60px;
+    &::before, &::after{
+        width: 20px;
+        position: absolute;
+        top: 0; left: 0;
+        text-align: accent;
+    }
+    &::before{
+        content: "“"
+    }
+    &::after{
+        content: "“";
+        left: auto; right: 0;
+    }
+}
+.quote-author{
+    font-size: 24px;
+    font-weight: bold;
+    position: relative;
+    padding-top: 20px;
+    font-style: normal;
+    text-transform: uppercase;
+    &::before{
+        content: '';
+        display: block;
+        width: 50px;
+        height: 4px;
+        position: absolute;
+        top: 0;
+        left: 50%;
+        margin-left: -25px;
+        background-color: $base-color;
+    }
+}
+.cb{
+    clear: both;
+}

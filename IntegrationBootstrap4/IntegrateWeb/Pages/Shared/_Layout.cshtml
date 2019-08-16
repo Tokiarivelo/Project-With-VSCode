@@ -1,0 +1,122 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Complete Bootstrap 4 Website Layout</title>
+
+    <environment include="Development">
+        <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+        <!-- <link rel="stylesheet" href="~/lib/fontawesome-free-5.9.0/css/all.css" /> -->
+        <link rel="stylesheet" href="~/css/app.css"/>
+        <!-- <link rel="stylesheet" href="~/css/fontawesome.css"/> -->
+        <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" 
+        rel="stylesheet" 
+        integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" 
+        crossorigin="anonymous">
+    </environment>
+    <environment exclude="Development">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+              asp-fallback-href="~/lib/bootstrap/dist/css/bootstrap.min.css"
+              asp-fallback-test-class="sr-only" asp-fallback-test-property="position" asp-fallback-test-value="absolute"
+              crossorigin="anonymous"
+              integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"/>
+        <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/> -->
+        <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" 
+        rel="stylesheet" 
+        integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" 
+        crossorigin="anonymous">
+    </environment>
+    <link rel="stylesheet" href="~/css/app.css" />
+</head>
+<body>
+    <!-- Navigation -->
+    <header class="fixed-top"> <!-- colle au fond quand scrolle -->
+        <nav class="navbar navbar-expand-md navbar-light bg-light">
+            <div class="container-fluid"> <!-- container-fluid : occupe toute la page -->
+                <a class="navbar-brand" asp-area="" asp-page="/Index"><img src="~/img/logo.png" /></a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarcollapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse" id="navbarcollapse">
+                    <ul class="navbar-nav ml-auto">
+                        <li class="nav-item active">
+                            <a class="nav-link "asp-area="" asp-page="/Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link "asp-area="" asp-page="/About">About</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link "asp-area="" asp-page="/Service">Service</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link "asp-area="" asp-page="/Team">Team</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link "asp-area="" asp-page="/Connect">Connect</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <partial name="_CookieConsentPartial" />
+     @RenderBody()
+    <footer class="container-fluid padding">
+        <div class="row text-center">
+            <div class="col-md-4">
+                <img src="~/img/w3newbie.png"/>
+                <hr class="light"/>
+                <p>555-555-555</p>
+                <p>email@email.com</p>
+                <p>Streat streat</p>
+                <p>City, State, 0000</p>
+            </div>
+            <div class="col-md-4">
+                <hr class="light"/>
+                <h5>Our hours</h5>
+                <hr class="light"/>
+                <p>Monday: 9am - 5pm</p>
+                <p>Saturday: 10am - 4pm</p>
+                <p>Sunday: closed</p>
+            </div>
+            <div class="col-md-4">
+               <hr class="light"/>
+                <h5>Service Area</h5>
+                <hr class="light"/>
+                <p>City, State, 0000</p>
+                <p>City, State, 0000</p>
+                <p>City, State, 0000</p>
+                <p>City, State, 0000</p>
+            </div>
+            <div class="col-12">
+                <hr class="light"/>
+                <h5>&copy; w3newbie.com</h5>
+            </div>
+        </div>
+    </footer>
+
+    <environment include="Development">
+        <script src="~/lib/jquery/dist/jquery.js"></script>
+        <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.js"></script>
+    </environment>
+    <environment exclude="Development">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"
+                asp-fallback-src="~/lib/jquery/dist/jquery.min.js"
+                asp-fallback-test="window.jQuery"
+                crossorigin="anonymous"
+                integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=">
+        </script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js"
+                asp-fallback-src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+                asp-fallback-test="window.jQuery && window.jQuery.fn && window.jQuery.fn.modal"
+                crossorigin="anonymous"
+                integrity="sha384-xrRywqdh3PHs8keKZN+8zzc5TX0GRTLCcmivcbNJWm2rs5C8PRhcEn3czEjhAO9o">
+        </script>
+    </environment>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,26 @@
+.form-input{
+    @include transition-duration;
+    display: block;
+    height: 45px;
+    width: 100%;
+
+    margin: 0 0 10px 0;
+    padding: 0 25px;
+
+    border: 2px solid #d9d9d9;
+    @include placeholder(#d9d9d9);
+    &:focus{
+        @include placeholder($base-color);
+        border-color: $base-color;
+        box-shadow: none;
+        outline: none;
+    }
+}
+.form-textarea{
+    @extend .form-input;
+    height: 150px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    line-height: 1.75;
+    font-family: "Open Sans", sans-serif;
+}

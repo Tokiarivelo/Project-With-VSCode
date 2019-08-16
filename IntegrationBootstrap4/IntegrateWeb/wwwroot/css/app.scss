@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700&display=swap');
+
+/*color base*/
+$base-color :  #6648b1;
+/*mixin*/
+@import "mixin/mixin";
+
+/*base*/
+@import "base/base";
+
+/*modules*/
+@import "modules/header";
+@import "modules/fixedbackground";
+@import "modules/carousel";
+@import "modules/button";
+@import "modules/jmbotron";
+@import "modules/welcome";
+@import "modules/threecolumn";
+@import "modules/Emoji";
+@import "modules/connect";
+@import "modules/footer";
+@import "modules/media";
+
+

@@ -1,0 +1,31 @@
+.about{
+    @include clearfix;
+}
+.about-icon{
+    width: 125px;
+    height: 125px;
+    float: left;
+    margin: 0 30px 30px 0;
+    text-align: center;
+    line-height: 125px;
+    border: 2px solid $base-color;
+    border-radius: 125px;
+}
+.about-text{
+    width: 505px;
+    float: left;
+}
+.about-picture{
+    float: right;
+    width: 450px;
+}
+.about-2{
+    .about-picture{
+        float: left;
+        width: 610px;
+    }
+    .about-text{
+        width: 550px;
+        float: right;
+    }
+}

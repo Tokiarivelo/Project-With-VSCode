@@ -1,0 +1,11 @@
+D:\Project With VSCode\TodoApi\TodoAPI.Data\bin\Debug\netcoreapp2.2\TodoAPI.Data.deps.json
+D:\Project With VSCode\TodoApi\TodoAPI.Data\bin\Debug\netcoreapp2.2\TodoAPI.Data.runtimeconfig.json
+D:\Project With VSCode\TodoApi\TodoAPI.Data\bin\Debug\netcoreapp2.2\TodoAPI.Data.runtimeconfig.dev.json
+D:\Project With VSCode\TodoApi\TodoAPI.Data\bin\Debug\netcoreapp2.2\TodoAPI.Data.dll
+D:\Project With VSCode\TodoApi\TodoAPI.Data\bin\Debug\netcoreapp2.2\TodoAPI.Data.pdb
+D:\Project With VSCode\TodoApi\TodoAPI.Data\obj\Debug\netcoreapp2.2\TodoAPI.Data.csprojAssemblyReference.cache
+D:\Project With VSCode\TodoApi\TodoAPI.Data\obj\Debug\netcoreapp2.2\TodoAPI.Data.csproj.CoreCompileInputs.cache
+D:\Project With VSCode\TodoApi\TodoAPI.Data\obj\Debug\netcoreapp2.2\TodoAPI.Data.AssemblyInfoInputs.cache
+D:\Project With VSCode\TodoApi\TodoAPI.Data\obj\Debug\netcoreapp2.2\TodoAPI.Data.AssemblyInfo.cs
+D:\Project With VSCode\TodoApi\TodoAPI.Data\obj\Debug\netcoreapp2.2\TodoAPI.Data.dll
+D:\Project With VSCode\TodoApi\TodoAPI.Data\obj\Debug\netcoreapp2.2\TodoAPI.Data.pdb

@@ -1,0 +1,9 @@
+d:\Project With VSCode\TodoApi\TodoAPI.Data\bin\Debug\netstandard2.0\TodoAPI.Data.deps.json
+d:\Project With VSCode\TodoApi\TodoAPI.Data\bin\Debug\netstandard2.0\TodoAPI.Data.dll
+d:\Project With VSCode\TodoApi\TodoAPI.Data\bin\Debug\netstandard2.0\TodoAPI.Data.pdb
+d:\Project With VSCode\TodoApi\TodoAPI.Data\obj\Debug\netstandard2.0\TodoAPI.Data.csprojAssemblyReference.cache
+d:\Project With VSCode\TodoApi\TodoAPI.Data\obj\Debug\netstandard2.0\TodoAPI.Data.csproj.CoreCompileInputs.cache
+d:\Project With VSCode\TodoApi\TodoAPI.Data\obj\Debug\netstandard2.0\TodoAPI.Data.AssemblyInfoInputs.cache
+d:\Project With VSCode\TodoApi\TodoAPI.Data\obj\Debug\netstandard2.0\TodoAPI.Data.AssemblyInfo.cs
+d:\Project With VSCode\TodoApi\TodoAPI.Data\obj\Debug\netstandard2.0\TodoAPI.Data.dll
+d:\Project With VSCode\TodoApi\TodoAPI.Data\obj\Debug\netstandard2.0\TodoAPI.Data.pdb

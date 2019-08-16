@@ -1,0 +1,224 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<!-- <div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div> -->
+<!-- Image Slider -->
+<div id="slide" class="carousel slide" data-ride="carousel">
+    <ul class="carousel-indicators">
+        <li data-target="#slide" data-slide-to="0" class="active"></li>
+        <li data-target="#slide" data-slide-to="1"></li>
+        <li data-target="#slide" data-slide-to="2"></li>
+    </ul>
+    <div class="carousel-inner">
+        <div class="carousel-item active ">
+            <img class="d-block w-100" src="~/img/background1.png" alt="Mountain">
+            <div class="carousel-caption d-block">
+                <h1 class="display-2">Bootstrap</h1>
+                <h3>Complete Website Layout</h3>
+                <button type="button" class="btn btn-outline-light btn-lg">View Demo</button>
+                <button type="button" class="btn btn-primary btn-lg">Get Started</button>
+            </div>
+        </div>
+        <div class="carousel-item ">
+            <img class="d-block w-100" src="~/img/background2.png" alt="Bootstrap 4">
+        </div>
+        <div class="carousel-item ">
+            <img class="d-block w-100"  src="~/img/background3.png" alt="Bootstrap Grid">
+        </div>
+  </div>
+</div>
+<!-- Jumbotron -->
+<div class="container-fluid">
+  <div class="row jumbotron">
+      <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-10">
+          <p class="lead text-justify">
+              Dolor ullamco amet ad laboris consectetur magna eu incididunt eu consequat aliqua. Adipisicing duis aliqua minim irure consequat anim eiusmod minim ad fugiat mollit. Nulla eu irure consequat ea. Cupidatat enim voluptate non minim cupidatat aliqua sit nisi adipisicing laborum tempor. Laboris duis sunt eiusmod mollit excepteur sint voluptate deserunt irure deserunt amet.
+          </p>
+      </div>
+      <div  class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-2 btn-center">
+            <a href="#" class="btn btn-outline-secondary btn-lg">Web hosting</a>
+      </div>
+  </div>
+</div>
+
+<!-- Welcome Section -->
+<section class="section container-fluid padding">
+    <div class="row section-welcome text-center">
+        <div class="col-12">
+            <h1 class="display-4">
+                Built with ease
+            </h1>
+        </div>
+        <hr/>
+        <div class="col-12">
+            <p class="lead">
+                Reprehenderit quis irure consectetur reprehenderit consequat ut ex veniam minim sint nisi eiusmod amet. Sunt in dolor commodo excepteur laborum culpa exercitation commodo deserunt labore. Laborum ad non adipisicing consequat ipsum irure aute culpa dolore. Incididunt eiusmod non ut veniam sunt reprehenderit do est veniam enim sunt est magna.
+            </p>
+        </div>
+    </div>
+</section>
+
+<!-- Three column section -->
+<section class="container-fluid padding my-4">
+    <div class="row text-center padding">
+        <div class="col-xs-12 col-sm-6 col-md-4">
+            <i class="fa fa-code"></i>
+            <h3>HTML5</h3>
+            <p>Build with the latest version of HTML, HTML5</p>
+        </div>
+        <div class="col-xs-12 col-sm-6 col-md-4">
+            <i class="fa fa-bold"></i>
+            <h3>Bootstrap</h3>
+            <p>Build with the latest version of Bootstrap, HTML4</p>
+        </div>
+         <div class="col-xs-12 col-md-4">
+            <i class="fa fa-css3"></i>
+            <h3>CSS3</h3>
+            <p>Build with the latest version of CSS, CSS3</p>
+        </div>
+    </div>
+</section>
+
+<!-- Two colmn section -->
+<section class="container-fluid">
+    <div class="row padding">
+        <div class="col-lg-6">
+            <h2>if you build it...</h2>
+            <p>
+                Culpa culpa nulla reprehenderit id dolor. Mollit Lorem dolore mollit nisi. Nisi magna cillum occaecat sint in aliquip enim ullamco do eiusmod et. Consectetur exercitation consequat elit amet ullamco et enim esse quis mollit exercitation culpa ea. In eu do sit sint voluptate dolore sunt aute ad cupidatat veniam enim. Magna anim veniam culpa ut.
+            </p>
+            <p>
+                Eiusmod voluptate incididunt aliquip qui. Aliquip cupidatat nulla sit occaecat et enim. Sunt ex laborum occaecat sit anim incididunt ut dolor.
+            </p>
+            <p>
+                Veniam sint voluptate ut elit consectetur est esse ea in esse quis id nostrud. Minim laboris quis labore dolor exercitation eu duis Lorem cillum Lorem duis. Consectetur eiusmod non culpa fugiat velit excepteur laboris nulla sunt ad quis irure do.
+            </p>
+            <br/>
+            <a href="#" class="btn btn-primary">Learn more</a>
+        </div>
+        <div class="col-lg-6">
+            <img  src="~/img/desk.png" alt="desktop" class="img-fluid">
+        </div>
+    </div>
+</section>
+
+<hr class="my-4"/>
+<!-- Fixed background -->
+<figure>
+    <div class="fixed-wrap">
+        <div id="fixed">
+        </div>
+    </div>
+</figure>
+<!-- Emoji Section -->
+<button class="fun text-center" data-toggle="collapse" data-target="#emoji">
+    click fot fun
+</button>
+<div class="collapse" id="emoji">
+    <div class="container-fluid padding">
+        <div class="row text-center">
+            <div class="col-sm-6 col-md-3">
+                <img class="gif" src="~/img/gif/panda.gif"/>
+            </div>
+            <div class="col-sm-6 col-md-3">
+                <img class="gif" src="~/img/gif/poo.gif"/>
+            </div>
+            <div class="col-sm-6 col-md-3">
+                <img class="gif" src="~/img/gif/unicorn.gif"/>
+            </div>
+            <div class="col-sm-6 col-md-3">
+                <img class="gif" src="~/img/gif/chicken.gif"/>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Meet the team -->
+<section class="container-fluid padding">
+    <div class="row welcome text-center">
+        <div class="col-12">
+            <h1 class="display-4">Meet the team</h1>
+        </div>
+    </div>
+</section>
+<!-- Cards -->
+<section class="container-fluid">
+    <div class="row">
+        <div class="col-md-4">
+            <div class="card">
+                <img class="card-img-top" src="~/img/team1.png"/>
+                <div class="card-body">
+                    <h4 class="card-title">John doe</h4>
+                    <p class="card-text">
+                        Consectetur incididunt irure veniam exercitation mollit aliqua do irure ipsum ut ex et culpa irure. Sint ullamco sint cillum cupidatat pariatur incididunt commodo duis mollit et mollit id ipsum. Mollit exercitation laborum anim eiusmod non consectetur id. Officia labore labore consectetur proident. Ea nostrud in tempor tempor ipsum anim laborum aute non id duis veniam ullamco.
+                    </p>
+                    <a href="#" class="btn btn-outline-secondary">See profile</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card">
+                <img class="card-img-top" src="~/img/team2.png"/>
+                <div class="card-body">
+                    <h4 class="card-title">Mary jo</h4>
+                    <p class="card-text">
+                        Consectetur incididunt irure veniam exercitation mollit aliqua do irure ipsum ut ex et culpa irure. Sint ullamco sint cillum cupidatat pariatur incididunt commodo duis mollit et mollit id ipsum. Mollit exercitation laborum anim eiusmod non consectetur id. Officia labore labore consectetur proident. Ea nostrud in tempor tempor ipsum anim laborum aute non id duis veniam ullamco.
+                    </p>
+                    <a href="#" class="btn btn-outline-secondary">See profile</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card">
+                <img class="card-img-top" src="~/img/team3.png"/>
+                <div class="card-body">
+                    <h4 class="card-title">Phil Ho</h4>
+                    <p class="card-text">
+                        Consectetur incididunt irure veniam exercitation mollit aliqua do irure ipsum ut ex et culpa irure. Sint ullamco sint cillum cupidatat pariatur incididunt commodo duis mollit et mollit id ipsum. Mollit exercitation laborum anim eiusmod non consectetur id. Officia labore labore consectetur proident. Ea nostrud in tempor tempor ipsum anim laborum aute non id duis veniam ullamco.
+                    </p>
+                    <a href="#" class="btn btn-outline-secondary">See profile</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Two colmn section -->
+<section class="container-fluid">
+    <div class="row padding">
+        <div class="col-lg-6">
+            <h2>Our Philosophy</h2>
+            <p>
+                Culpa culpa nulla reprehenderit id dolor. Mollit Lorem dolore mollit nisi. Nisi magna cillum occaecat sint in aliquip enim ullamco do eiusmod et. Consectetur exercitation consequat elit amet ullamco et enim esse quis mollit exercitation culpa ea. In eu do sit sint voluptate dolore sunt aute ad cupidatat veniam enim. Magna anim veniam culpa ut.
+            </p>
+            <p>
+                Eiusmod voluptate incididunt aliquip qui. Aliquip cupidatat nulla sit occaecat et enim. Sunt ex laborum occaecat sit anim incididunt ut dolor.
+            </p>
+            <br/>
+        </div>
+        <div class="col-lg-6">
+            <img  src="~/img/bootstrap2.png" alt="desktop" class="img-fluid">
+        </div>
+    </div>
+    <hr class="my-4"/>
+</section>
+<!-- Connect  -->
+<section class="container-fluid padding">
+    <div class="row text-center">
+        <div class="col-12">
+            <h2>Connect</h2>
+        </div>
+        <div class="col-12 social padding">
+            <a href="#"><i class="fa fa-facebook"></i></a>
+            <a href="#"><i class="fa fa-twitter"></i></a>
+            <a href="#"><i class="fa fa-google-plus"></i></a>
+            <a href="#"><i class="fa fa-instagram"></i></a>
+            <a href="#"><i class="fa fa-youtube"></i></a>
+        </div>
+    </div>
+</section>
+<!-- Footer -->

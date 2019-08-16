@@ -1,0 +1,25 @@
+/*mixin functions*/
+@import "compass";
+@import "mixin/mixin";
+
+/*variables*/
+$transition-duration : 0.3s;
+$base-color : #f39c12;
+
+/*base*/
+@import "base/base";
+@import "base/form";
+
+/*Layout*/
+@import "Layout/grid";
+
+/*modules*/
+@import "module/header";
+@import "module/btn";
+@import "module/section";
+@import "module/icon";
+@import "module/about";
+@import "module/preogress";
+@import "module/post";
+@import "module/contact";
+@import "module/footer";

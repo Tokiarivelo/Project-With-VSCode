@@ -1,0 +1,60 @@
+.header{
+    // color: black;
+    background: url(img/header.jpg) center top fixed;
+    @include background-size(cover); 
+    color: white;
+    text-align: center;
+    padding: 70px 0 165px 0;
+}
+.header-logo{
+    display: block; /*les inlines comporte comme un div*/
+    float: left;
+}
+.header-baseline{
+    font-weight: 300;
+    font-size: 45px;
+    text-transform: uppercase;
+    margin: 225px 0 80px 0;
+    letter-spacing: -1;
+}
+.header-baseline-l{
+    display: block;
+    line-height: 57px;
+}
+.header-baseline-l2{
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 80px;
+}
+.header-baseline-l3{
+    font-size: 40px;
+    line-height: 60px;
+}
+/*--------------------------------------------*/
+/*                  Menu                      */
+/*--------------------------------------------*/
+.menu{
+    font-size: 18px;
+    font-weight: 600;
+    //padding-left: 37px;
+    margin-top: 60px;
+    padding-top: 0;
+    text-align: right;
+    //float: right;
+    text-transform: uppercase;
+}
+.menu-item{
+    @include transition-duration($transition-duration);
+    &::before{
+        content: "\\";
+        color: white;
+        display: inline-block;
+        padding: 0 37px;
+    }
+   &:first-child::before{
+       display: none;
+   }
+   &:hover, &.is-active{
+       color: black;
+   }
+}

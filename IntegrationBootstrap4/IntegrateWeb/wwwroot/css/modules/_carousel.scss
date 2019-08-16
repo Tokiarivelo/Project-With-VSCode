@@ -1,0 +1,25 @@
+$bgnumber : 1, 2, 3;
+@each $number in $bgnumber {
+    .carousel-bg-#{$number}{
+        @include carousel-img('../img/background#{$number}.png');
+        width: 100%;
+    }
+}
+.carousel-caption{
+    position: absolute;
+    top: 60%;
+    @include transform(translateY(-50%)); 
+
+    h1{
+        font-size: 500%;
+        text-transform: uppercase;
+        text-shadow: 1px 1px 15px #000;
+    }
+
+    h3{
+         font-size: 200%;
+         font-weight: 500;
+         text-shadow: 1px 1px 15px #000;
+         padding-bottom: 1rem;
+    }
+}

@@ -1,0 +1,89 @@
+/*mixin function*/
+@mixin background-size($size) {
+  -webkit-background-size: $size;
+     -moz-background-size: $size;
+      -ms-background-size: $size;
+          background-size: $size;
+} 
+@mixin clearfix {
+  &:before,
+    &:after {
+        content: "";
+        display: table;
+    }
+    &:after {
+        clear: both;
+    }
+    zoom: 1;
+}
+
+@mixin transition-duration($duration:1s) {
+    -webkit-transition-duration: $duration;
+    -moz-transition-duration:    $duration;
+    -ms-transition-duration:     $duration;
+    -o-transition-duration:      $duration;
+    transition-duration:         $duration;
+}
+@mixin box-sizing($size-value) {
+     box-sizing: $size-value;
+    -webkit-box-sizing: $size-value;
+    -moz-box-sizing:    $size-value;
+    -ms-box-sizing:     $size-value;
+    -o-box-sizing:      $size-value;
+    box-sizing:         $size-value;
+  /* width: 160px; element width
+     Total width: 160px
+     Total height: 80px
+     Content box width: 160px - (2 * 20px) - (2 * 8px) = 104px
+     Content box height: 80px - (2 * 20px) - (2 * 8px) = 24px */
+}
+// generic transform
+@mixin transform($transforms) {
+	   -moz-transform: $transforms;
+	     -o-transform: $transforms;
+	    -ms-transform: $transforms;
+	-webkit-transform: $transforms;
+          transform: $transforms;
+}
+// skew
+@mixin skew ($x, $y) {
+   @include transform(skew(#{$x}deg, #{$y}deg));
+}
+//transform origin
+@mixin transform-origin ($origin) {
+    -moz-transform-origin:      $origin;
+	-o-transform-origin:        $origin;
+	-ms-transform-origin:       $origin;
+	-webkit-transform-origin:   $origin;
+    transform-origin:           $origin;
+}
+
+$prefixes : ("-webkit", "-moz-", "-ms-", "");
+//placeholder
+@mixin placeholder($color : $clr-mixin-placeholder) {
+  @each $prefix in $prefixes {
+        &::#{$prefix}placeholder{
+            color: $color;
+        }
+    }
+}
+
+//selection
+@mixin selection($color, $background) {
+    @each $prefix in $prefixes {
+        ::#{$prefix}selection{
+            color: $color;
+            background: $background;
+            text-shadow: none;
+        }
+    }
+}
+
+//appearence
+@mixin appearence($appearence-value) {
+    -moz-appearence:      $appearence-value;
+	-o-appearence:        $appearence-value;
+	-ms-appearence:       $appearence-value;
+	-webkit-appearence:   $appearence-value;
+}
+/*end*/

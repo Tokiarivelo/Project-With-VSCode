@@ -1,0 +1,33 @@
+.btn{
+    padding: 0 40px;
+    display: inline-block;
+
+    color: white;
+    font-size: 15px;
+    text-transform: uppercase;
+    line-height: 40px;
+    font-weight: 600;
+
+    background-color: transparent;
+    background-color: rgba($base-color, 0);
+    border: 2px solid white;
+    &:hover{
+        background-color: $base-color;
+        border-color: $base-color;
+        color: white;
+    }
+    cursor: pointer;
+    @include transition-duration($transition-duration);
+}
+.btn-primary{
+
+    border: 2px solid $base-color;
+
+    color: black;
+    font-weight: bold;
+    
+    background-color: transparent;
+}
+.btn-small{
+    line-height: 30px;
+}

@@ -1,0 +1,11 @@
+.btn-center{
+    margin: auto;
+}
+.btn-primary{
+    background-color: #6648b1;
+    border: 1px solid #6648b1;
+    &:hover{
+        background-color: #563d7c;
+        border: 1px solid #563d7c;
+    }
+}

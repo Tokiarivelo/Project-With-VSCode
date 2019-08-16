@@ -1,0 +1,36 @@
+*{
+    @include box-sizing(border-box);
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-size: 16px; /*1em*/
+    line-height: 1.75;
+    font-family: "Open Sans", sans-serif;
+    color: #737373;
+}
+a{
+    color:inherit; //hérite du parent
+    text-decoration: none;
+}
+h2{
+    margin: 0 0 10px 0;
+    font-style: 20px;
+    font-style: 1.25em;
+    color: black;
+}
+p{
+    margin: 0 0 20px 0; //top right bottom left
+}
+hr{
+    margin: 115px 0;
+    padding: 0;
+
+    height: 2px;
+
+    background-color: #e6e6e6;
+    border: none;
+}
+.cb{
+    clear: both;
+}

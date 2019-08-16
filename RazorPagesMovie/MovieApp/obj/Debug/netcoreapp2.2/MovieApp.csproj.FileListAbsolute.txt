@@ -1,0 +1,118 @@
+d:\DotnetCore\MovieApp\bin\Debug\netcoreapp2.2\MovieApp.deps.json
+d:\DotnetCore\MovieApp\bin\Debug\netcoreapp2.2\MovieApp.runtimeconfig.json
+d:\DotnetCore\MovieApp\bin\Debug\netcoreapp2.2\MovieApp.runtimeconfig.dev.json
+d:\DotnetCore\MovieApp\bin\Debug\netcoreapp2.2\MovieApp.dll
+d:\DotnetCore\MovieApp\bin\Debug\netcoreapp2.2\MovieApp.pdb
+d:\DotnetCore\MovieApp\bin\Debug\netcoreapp2.2\MovieApp.Views.dll
+d:\DotnetCore\MovieApp\bin\Debug\netcoreapp2.2\MovieApp.Views.pdb
+d:\DotnetCore\MovieApp\obj\Debug\netcoreapp2.2\MovieApp.csprojAssemblyReference.cache
+d:\DotnetCore\MovieApp\obj\Debug\netcoreapp2.2\MovieApp.csproj.CoreCompileInputs.cache
+d:\DotnetCore\MovieApp\obj\Debug\netcoreapp2.2\MovieApp.RazorAssemblyInfo.cache
+d:\DotnetCore\MovieApp\obj\Debug\netcoreapp2.2\MovieApp.RazorAssemblyInfo.cs
+d:\DotnetCore\MovieApp\obj\Debug\netcoreapp2.2\MovieApp.AssemblyInfoInputs.cache
+d:\DotnetCore\MovieApp\obj\Debug\netcoreapp2.2\MovieApp.AssemblyInfo.cs
+d:\DotnetCore\MovieApp\obj\Debug\netcoreapp2.2\MovieApp.TagHelpers.input.cache
+d:\DotnetCore\MovieApp\obj\Debug\netcoreapp2.2\MovieApp.TagHelpers.output.cache
+d:\DotnetCore\MovieApp\obj\Debug\netcoreapp2.2\MovieApp.RazorCoreGenerate.cache
+d:\DotnetCore\MovieApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+d:\DotnetCore\MovieApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+d:\DotnetCore\MovieApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+d:\DotnetCore\MovieApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+d:\DotnetCore\MovieApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+d:\DotnetCore\MovieApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+d:\DotnetCore\MovieApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+d:\DotnetCore\MovieApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+d:\DotnetCore\MovieApp\obj\Debug\netcoreapp2.2\MovieApp.RazorTargetAssemblyInfo.cache
+d:\DotnetCore\MovieApp\obj\Debug\netcoreapp2.2\MovieApp.RazorTargetAssemblyInfo.cs
+d:\DotnetCore\MovieApp\obj\Debug\netcoreapp2.2\MovieApp.Views.pdb
+d:\DotnetCore\MovieApp\obj\Debug\netcoreapp2.2\MovieApp.dll
+d:\DotnetCore\MovieApp\obj\Debug\netcoreapp2.2\MovieApp.pdb
+d:\DotnetCore\MovieApp\obj\Debug\netcoreapp2.2\MovieApp.csproj.CopyComplete
+D:\DotnetCore\RazorPagesMovie\MovieApp\bin\Debug\netcoreapp2.2\MovieApp.deps.json
+D:\DotnetCore\RazorPagesMovie\MovieApp\bin\Debug\netcoreapp2.2\MovieApp.runtimeconfig.json
+D:\DotnetCore\RazorPagesMovie\MovieApp\bin\Debug\netcoreapp2.2\MovieApp.runtimeconfig.dev.json
+D:\DotnetCore\RazorPagesMovie\MovieApp\bin\Debug\netcoreapp2.2\MovieApp.dll
+D:\DotnetCore\RazorPagesMovie\MovieApp\bin\Debug\netcoreapp2.2\MovieApp.pdb
+D:\DotnetCore\RazorPagesMovie\MovieApp\bin\Debug\netcoreapp2.2\MovieApp.Views.dll
+D:\DotnetCore\RazorPagesMovie\MovieApp\bin\Debug\netcoreapp2.2\MovieApp.Views.pdb
+D:\DotnetCore\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\MovieApp.csprojAssemblyReference.cache
+D:\DotnetCore\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\MovieApp.csproj.CoreCompileInputs.cache
+D:\DotnetCore\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\MovieApp.RazorAssemblyInfo.cache
+D:\DotnetCore\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\MovieApp.RazorAssemblyInfo.cs
+D:\DotnetCore\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\MovieApp.AssemblyInfoInputs.cache
+D:\DotnetCore\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\MovieApp.AssemblyInfo.cs
+D:\DotnetCore\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\MovieApp.TagHelpers.input.cache
+D:\DotnetCore\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\MovieApp.TagHelpers.output.cache
+D:\DotnetCore\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\MovieApp.RazorCoreGenerate.cache
+D:\DotnetCore\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\DotnetCore\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\DotnetCore\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\DotnetCore\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\DotnetCore\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\DotnetCore\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\DotnetCore\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\DotnetCore\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\DotnetCore\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\MovieApp.RazorTargetAssemblyInfo.cache
+D:\DotnetCore\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\MovieApp.RazorTargetAssemblyInfo.cs
+D:\DotnetCore\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\MovieApp.Views.pdb
+D:\DotnetCore\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\MovieApp.dll
+D:\DotnetCore\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\MovieApp.pdb
+D:\DotnetCore\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\MovieApp.csproj.CopyComplete
+D:\DotnetCore\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Create.g.cshtml.cs
+D:\DotnetCore\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Delete.g.cshtml.cs
+D:\DotnetCore\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Details.g.cshtml.cs
+D:\DotnetCore\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Edit.g.cshtml.cs
+D:\DotnetCore\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Index.g.cshtml.cs
+D:\DotnetCore\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\Razor\Pages\_ValidationScriptsPartial.g.cshtml.cs
+D:\DotnetCore\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.g.cshtml.cs
+D:\DotnetCore\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\Razor\Views\HelloWorld\Index.g.cshtml.cs
+D:\DotnetCore\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\Razor\Views\HelloWorld\Welcome.g.cshtml.cs
+D:\DotnetCore\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\Razor\Views\Movies2\Create.g.cshtml.cs
+D:\DotnetCore\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\Razor\Views\Movies2\Delete.g.cshtml.cs
+D:\DotnetCore\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\Razor\Views\Movies2\Details.g.cshtml.cs
+D:\DotnetCore\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\Razor\Views\Movies2\Edit.g.cshtml.cs
+D:\DotnetCore\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\Razor\Views\Movies2\Index.g.cshtml.cs
+d:\Project With VSCode\RazorPagesMovie\MovieApp\bin\Debug\netcoreapp2.2\MovieApp.deps.json
+d:\Project With VSCode\RazorPagesMovie\MovieApp\bin\Debug\netcoreapp2.2\MovieApp.runtimeconfig.json
+d:\Project With VSCode\RazorPagesMovie\MovieApp\bin\Debug\netcoreapp2.2\MovieApp.runtimeconfig.dev.json
+d:\Project With VSCode\RazorPagesMovie\MovieApp\bin\Debug\netcoreapp2.2\MovieApp.dll
+d:\Project With VSCode\RazorPagesMovie\MovieApp\bin\Debug\netcoreapp2.2\MovieApp.pdb
+d:\Project With VSCode\RazorPagesMovie\MovieApp\bin\Debug\netcoreapp2.2\MovieApp.Views.dll
+d:\Project With VSCode\RazorPagesMovie\MovieApp\bin\Debug\netcoreapp2.2\MovieApp.Views.pdb
+d:\Project With VSCode\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\MovieApp.csprojAssemblyReference.cache
+d:\Project With VSCode\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\MovieApp.csproj.CoreCompileInputs.cache
+d:\Project With VSCode\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\MovieApp.RazorAssemblyInfo.cache
+d:\Project With VSCode\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\MovieApp.RazorAssemblyInfo.cs
+d:\Project With VSCode\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\MovieApp.AssemblyInfoInputs.cache
+d:\Project With VSCode\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\MovieApp.AssemblyInfo.cs
+d:\Project With VSCode\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\MovieApp.TagHelpers.input.cache
+d:\Project With VSCode\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\MovieApp.TagHelpers.output.cache
+d:\Project With VSCode\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\MovieApp.RazorCoreGenerate.cache
+d:\Project With VSCode\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Create.g.cshtml.cs
+d:\Project With VSCode\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Delete.g.cshtml.cs
+d:\Project With VSCode\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Details.g.cshtml.cs
+d:\Project With VSCode\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Edit.g.cshtml.cs
+d:\Project With VSCode\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Index.g.cshtml.cs
+d:\Project With VSCode\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\Razor\Pages\_ValidationScriptsPartial.g.cshtml.cs
+d:\Project With VSCode\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.g.cshtml.cs
+d:\Project With VSCode\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\Razor\Views\HelloWorld\Index.g.cshtml.cs
+d:\Project With VSCode\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\Razor\Views\HelloWorld\Welcome.g.cshtml.cs
+d:\Project With VSCode\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+d:\Project With VSCode\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+d:\Project With VSCode\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\Razor\Views\Movies2\Create.g.cshtml.cs
+d:\Project With VSCode\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\Razor\Views\Movies2\Delete.g.cshtml.cs
+d:\Project With VSCode\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\Razor\Views\Movies2\Details.g.cshtml.cs
+d:\Project With VSCode\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\Razor\Views\Movies2\Edit.g.cshtml.cs
+d:\Project With VSCode\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\Razor\Views\Movies2\Index.g.cshtml.cs
+d:\Project With VSCode\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+d:\Project With VSCode\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+d:\Project With VSCode\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+d:\Project With VSCode\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+d:\Project With VSCode\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+d:\Project With VSCode\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+d:\Project With VSCode\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\MovieApp.RazorTargetAssemblyInfo.cache
+d:\Project With VSCode\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\MovieApp.RazorTargetAssemblyInfo.cs
+d:\Project With VSCode\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\MovieApp.Views.pdb
+d:\Project With VSCode\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\MovieApp.dll
+d:\Project With VSCode\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\MovieApp.pdb
+d:\Project With VSCode\RazorPagesMovie\MovieApp\obj\Debug\netcoreapp2.2\MovieApp.csproj.CopyComplete

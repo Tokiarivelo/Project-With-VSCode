@@ -1,0 +1,13 @@
+.fa-code{
+    color: #e54d26;
+    font-size: 4rem;
+    margin: 1rem;
+}
+.fa-bold{
+    @extend .fa-code;
+    color: #563d7c;
+}
+.fa-css3{
+    @extend .fa-code;
+    color: #2163af;
+}
