@@ -2948,8 +2948,33 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "Views\\Facturation\\Index.cshtml",
+      "TargetPath": "Views\\Facturation\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\Achat\\Delete.cshtml",
+      "TargetPath": "Views\\Achat\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\Produit\\Details.cshtml",
+      "TargetPath": "Views\\Produit\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\Produit\\Create.cshtml",
+      "TargetPath": "Views\\Produit\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\Vente\\Create.cshtml",
+      "TargetPath": "Views\\Vente\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -2958,8 +2983,38 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "Views\\Client\\Edit.cshtml",
+      "TargetPath": "Views\\Client\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\Client\\Details.cshtml",
+      "TargetPath": "Views\\Client\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\Produit\\Edit.cshtml",
+      "TargetPath": "Views\\Produit\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\Vente\\Details.cshtml",
+      "TargetPath": "Views\\Vente\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\Achat\\Index.cshtml",
+      "TargetPath": "Views\\Achat\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\Vente\\Edit.cshtml",
+      "TargetPath": "Views\\Vente\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -2968,8 +3023,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "Views\\Achat\\Create.cshtml",
+      "TargetPath": "Views\\Achat\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\Facturation\\Edit.cshtml",
+      "TargetPath": "Views\\Facturation\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -2978,8 +3043,68 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "Views\\Client\\Create.cshtml",
+      "TargetPath": "Views\\Client\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\Vente\\Delete.cshtml",
+      "TargetPath": "Views\\Vente\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\Achat\\Edit.cshtml",
+      "TargetPath": "Views\\Achat\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\Facturation\\Create.cshtml",
+      "TargetPath": "Views\\Facturation\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\Facturation\\Delete.cshtml",
+      "TargetPath": "Views\\Facturation\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\Vente\\Index.cshtml",
+      "TargetPath": "Views\\Vente\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\Produit\\Delete.cshtml",
+      "TargetPath": "Views\\Produit\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\Facturation\\Details.cshtml",
+      "TargetPath": "Views\\Facturation\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\Client\\Delete.cshtml",
+      "TargetPath": "Views\\Client\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\Client\\Index.cshtml",
+      "TargetPath": "Views\\Client\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\Achat\\Details.cshtml",
+      "TargetPath": "Views\\Achat\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views\\Produit\\Index.cshtml",
+      "TargetPath": "Views\\Produit\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],

@@ -11,5 +11,6 @@ namespace VenteProduit.Context
         public DbSet<Vente> Vente { get; set; }
         public DbSet<Client> Client { get; set; }
         public DbSet<Facturation> Facturation { get; set; }
+        public DbSet<VenteProduit.Models.Achat> Achat { get; set; }
     }
 }

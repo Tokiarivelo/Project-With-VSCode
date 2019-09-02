@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Project With VSCode\\ContosoUniversityMvc\\ContosoUniversity\\ContosoUniversity.csproj": {}
+    "D:\\Project With VSCode\\ContosoUniversityMvc\\ContosoUniversity\\ContosoUniversity.csproj": {}
   },
   "projects": {
-    "d:\\Project With VSCode\\ContosoUniversityMvc\\ContosoUniversity\\ContosoUniversity.csproj": {
+    "D:\\Project With VSCode\\ContosoUniversityMvc\\ContosoUniversity\\ContosoUniversity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Project With VSCode\\ContosoUniversityMvc\\ContosoUniversity\\ContosoUniversity.csproj",
+        "projectUniqueName": "D:\\Project With VSCode\\ContosoUniversityMvc\\ContosoUniversity\\ContosoUniversity.csproj",
         "projectName": "ContosoUniversity",
-        "projectPath": "d:\\Project With VSCode\\ContosoUniversityMvc\\ContosoUniversity\\ContosoUniversity.csproj",
+        "projectPath": "D:\\Project With VSCode\\ContosoUniversityMvc\\ContosoUniversity\\ContosoUniversity.csproj",
         "packagesPath": "C:\\Users\\toky\\.nuget\\packages\\",
-        "outputPath": "d:\\Project With VSCode\\ContosoUniversityMvc\\ContosoUniversity\\obj\\",
+        "outputPath": "D:\\Project With VSCode\\ContosoUniversityMvc\\ContosoUniversity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

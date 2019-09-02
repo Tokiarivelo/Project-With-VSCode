@@ -7,8 +7,10 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using VenteProduit.Context;
 
 namespace VenteProduit
 {
@@ -31,7 +33,8 @@ namespace VenteProduit
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
 
-
+            services.AddDbContext<VenteProduitContext>(options =>
+                  options.UseSqlite(Configuration.GetConnectionString("VenteProduit")));
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         }
 
@@ -57,7 +60,7 @@ namespace VenteProduit
             {
                 routes.MapRoute(
                     name: "default",
-                    template: "{controller=Home}/{action=Index}/{id?}");
+                    template: "{controller=Vente}/{action=Index}/{id?}");
             });
         }
     }

@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
 namespace VenteProduit.Models
@@ -11,5 +12,6 @@ namespace VenteProduit.Models
         public string ProduitName { get; set; }
         [Required(ErrorMessage = "Il faut un prix pour un produit")]
         public decimal PrixUnitaire { get; set; }
+        public List<Vente> Ventes { get; set; }
     }
 }

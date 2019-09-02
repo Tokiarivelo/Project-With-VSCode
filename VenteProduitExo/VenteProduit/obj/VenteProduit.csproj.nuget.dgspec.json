@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Project With VSCode\\VenteProduitExo\\VenteProduit\\VenteProduit.csproj": {}
+    "d:\\Project With VSCode\\VenteProduitExo\\VenteProduit\\VenteProduit.csproj": {}
   },
   "projects": {
-    "D:\\Project With VSCode\\VenteProduitExo\\VenteProduit\\VenteProduit.csproj": {
+    "d:\\Project With VSCode\\VenteProduitExo\\VenteProduit\\VenteProduit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project With VSCode\\VenteProduitExo\\VenteProduit\\VenteProduit.csproj",
+        "projectUniqueName": "d:\\Project With VSCode\\VenteProduitExo\\VenteProduit\\VenteProduit.csproj",
         "projectName": "VenteProduit",
-        "projectPath": "D:\\Project With VSCode\\VenteProduitExo\\VenteProduit\\VenteProduit.csproj",
+        "projectPath": "d:\\Project With VSCode\\VenteProduitExo\\VenteProduit\\VenteProduit.csproj",
         "packagesPath": "C:\\Users\\toky\\.nuget\\packages\\",
-        "outputPath": "D:\\Project With VSCode\\VenteProduitExo\\VenteProduit\\obj\\",
+        "outputPath": "d:\\Project With VSCode\\VenteProduitExo\\VenteProduit\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

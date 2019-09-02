@@ -12,9 +12,9 @@ namespace VenteProduit.Models
         public long ProduitId { get; set; }
         [Required]
         public long AchatId { get; set; }
-
-        public Achat Achat { get; set; }
-        public List<Produit> Produits { get; set; }
+        public long Quantite { get; set; }
+        public Achat Achats { get; set; }
+        public Produit Produit { get; set; }
 
     }
 }
