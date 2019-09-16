@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Project With VSCode\\TodoApi\\TodoAPI.Data\\TodoAPI.Data.csproj": {}
+    "D:\\Project With VSCode\\TodoApi\\TodoAPI.Data\\TodoAPI.Data.csproj": {}
   },
   "projects": {
-    "d:\\Project With VSCode\\TodoApi\\TodoAPI.Data\\TodoAPI.Data.csproj": {
+    "D:\\Project With VSCode\\TodoApi\\TodoAPI.Data\\TodoAPI.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Project With VSCode\\TodoApi\\TodoAPI.Data\\TodoAPI.Data.csproj",
+        "projectUniqueName": "D:\\Project With VSCode\\TodoApi\\TodoAPI.Data\\TodoAPI.Data.csproj",
         "projectName": "TodoAPI.Data",
-        "projectPath": "d:\\Project With VSCode\\TodoApi\\TodoAPI.Data\\TodoAPI.Data.csproj",
+        "projectPath": "D:\\Project With VSCode\\TodoApi\\TodoAPI.Data\\TodoAPI.Data.csproj",
         "packagesPath": "C:\\Users\\toky\\.nuget\\packages\\",
-        "outputPath": "d:\\Project With VSCode\\TodoApi\\TodoAPI.Data\\obj\\",
+        "outputPath": "D:\\Project With VSCode\\TodoApi\\TodoAPI.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

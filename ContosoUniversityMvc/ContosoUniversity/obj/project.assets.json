@@ -7912,7 +7912,7 @@
       ]
     },
     "NETStandard.Library/2.0.3": {
-      "sha512": "st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "sha512": "F9NyazrLJK7jCNZxudRzFnvnc2v2YXU1lNnh13CR0KZHY+QUDYosE72nrOKNjO5Bfi4q+d7lG8qLubnAd/iPzg==",
       "type": "package",
       "path": "netstandard.library/2.0.3",
       "files": [
@@ -9546,7 +9546,7 @@
       ]
     },
     "System.Globalization.Extensions/4.3.0": {
-      "sha512": "FhKmdR6MPG+pxow6wGtNAWdZh7noIOpdD5TwQ3CprzgIE1bBBoim0vbR1+AWsWjQmU7zXHgQo4TWSP6lCeiWcQ==",
+      "sha512": "GGCaWJMRgpH5oqRmFMCb6qRHIgAb3Zc4dv5shMCNDb5TdUW54myo8JanLTyxRLmjec15aAxznNZa4TrZzP/0LQ==",
       "type": "package",
       "path": "system.globalization.extensions/4.3.0",
       "files": [
@@ -10466,7 +10466,7 @@
       ]
     },
     "System.Private.DataContractSerialization/4.3.0": {
-      "sha512": "yDaJ2x3mMmjdZEDB4IbezSnCsnjQ4BxinKhRAaP6kEgL6Bb6jANWphs5SzyD8imqeC/3FxgsuXT6ykkiH1uUmA==",
+      "sha512": "FHIs2GHlrIwE7Pfm1rNjRIIZs1Dc0DwQ0Fu3ImP1QK7tAolLfX9K0rRjwfIbKlgw9fpCqeK6I+OrSCfPATIHIw==",
       "type": "package",
       "path": "system.private.datacontractserialization/4.3.0",
       "files": [
@@ -10741,7 +10741,7 @@
       ]
     },
     "System.Reflection.Metadata/1.6.0": {
-      "sha512": "COC1aiAJjCoA5GBF+QKL2uLqEBew4JsCkQmoHKbN3TlOZKa2fKLz5CpiRQKDz0RsAOEGsVKqOD5bomsXq/4STQ==",
+      "sha512": "mxV4UUcT5ZzT/YQ9Afxs4t5qDMhc9btc02aEd6Y/AJxGu1qHA3l7zuL4OuHnxsyG2Q23zQPz7ZCG/xkJlYa51w==",
       "type": "package",
       "path": "system.reflection.metadata/1.6.0",
       "files": [
@@ -11605,7 +11605,7 @@
       ]
     },
     "System.Security.Cryptography.Cng/4.5.0": {
-      "sha512": "WG3r7EyjUe9CMPFSs6bty5doUqT+q9pbI80hlNzo2SkPkZ4VTuZkGWjpp77JB8+uaL4DFPRdBsAY+DX3dBK92A==",
+      "sha512": "R0pDFAiqck9JIo6qJG60qJVyephNjmu9c6sNGyFWUpunnAwYnej1R7vMDjeJtGF3pO3yzir4FKhDa2/szic5dw==",
       "type": "package",
       "path": "system.security.cryptography.cng/4.5.0",
       "files": [
@@ -11668,7 +11668,7 @@
       ]
     },
     "System.Security.Cryptography.Csp/4.3.0": {
-      "sha512": "X4s/FCkEUnRGnwR3aSfVIkldBmtURMhmexALNTwpjklzxWU7yjMk7GHLKOZTNkgnWnE0q7+BCf9N2LVRWxewaA==",
+      "sha512": "9A17e5mDHhesQSGbP3HPHLVwWn9X0I+T9EFbj6N1H+8FcNinjXlrFMUcHyEZdhy2MY32UYz4gyeEpmQXBSj3Ig==",
       "type": "package",
       "path": "system.security.cryptography.csp/4.3.0",
       "files": [
@@ -12786,7 +12786,7 @@
       ]
     },
     "System.Xml.XmlSerializer/4.3.0": {
-      "sha512": "MYoTCP7EZ98RrANESW05J5ZwskKDoN0AuZ06ZflnowE50LTpbR5yRg3tHckTVm5j/m47stuGgCrCHWePyHS70Q==",
+      "sha512": "dkr/j9/1vPC6okYo588sCPjabpzvr/qmwJGJX5kWzpimFsiTt1fvG75iQYSvOEcd7RsiDSMtUPjctSukb7tVAQ==",
       "type": "package",
       "path": "system.xml.xmlserializer/4.3.0",
       "files": [
@@ -12949,11 +12949,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project With VSCode\\ContosoUniversityMvc\\ContosoUniversity\\ContosoUniversity.csproj",
+      "projectUniqueName": "d:\\Project With VSCode\\ContosoUniversityMvc\\ContosoUniversity\\ContosoUniversity.csproj",
       "projectName": "ContosoUniversity",
-      "projectPath": "D:\\Project With VSCode\\ContosoUniversityMvc\\ContosoUniversity\\ContosoUniversity.csproj",
+      "projectPath": "d:\\Project With VSCode\\ContosoUniversityMvc\\ContosoUniversity\\ContosoUniversity.csproj",
       "packagesPath": "C:\\Users\\toky\\.nuget\\packages\\",
-      "outputPath": "D:\\Project With VSCode\\ContosoUniversityMvc\\ContosoUniversity\\obj\\",
+      "outputPath": "d:\\Project With VSCode\\ContosoUniversityMvc\\ContosoUniversity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13007,10 +13007,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100-preview9-014004\\RuntimeIdentifierGraph.json"
       }
     }
   }
